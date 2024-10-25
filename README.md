@@ -47,3 +47,5 @@ static (int, int) FindElement(int[,] array, int target, int row, int col)
 
      return FindElement(array, target, row, col + 1);
  }
+```
+![image](https://github.com/user-attachments/assets/19435404-9268-48bf-9df9-72a60dcc8e59)
